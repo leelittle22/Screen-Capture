@@ -1,0 +1,18 @@
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+c:\users\sam\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form3.resources
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form4.resources
+C:\Users\Sam\Desktop\Visual Studio Screen Cap\backup visual studio files\WindowsApplication6\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\Sam\Desktop\Visual Studio Screen Cap\backup visual studio files\WindowsApplication6\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\Sam\Desktop\Visual Studio Screen Cap\backup visual studio files\WindowsApplication6\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\Sam\Desktop\Visual Studio Screen Cap\backup visual studio files\WindowsApplication6\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
